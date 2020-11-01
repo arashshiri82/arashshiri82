@@ -24,9 +24,10 @@
 
 <p><b>Email :</b></p>
 
+- 📫 How to reach me !?
+- Email is the best way , my email address : Arashshiri007@gmail.com
+
+<p><b>My Friends : </b></p>
 <ul>
-    - 📫 How to reach me !?
-    - Email is the best way , my email address : Arashshiri007@gmail.com
-    <br>
     <li>My Real and The best Friend : <b><a href="https://github.com/BlackIQ">Amirhossein Mohammadi</a> &hearts;</b></li>
 </ul>
