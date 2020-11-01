@@ -5,8 +5,6 @@
 - :cyclone: Only fact : **Jadi is the Best !**
 - :octocat: I’m open to Work/Collaborate on **Open Source Projects** anfer I learned Programming !
 
-<br>
-
 <hr>
 
 ### What I wana learn ?
